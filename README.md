@@ -1,35 +1,23 @@
-# 🌐 Network Routing Program (router.c)
+# 🛡️ Network Intrusion Detection System (IDS)
 
-A command-line program written in **C language** for effective routing operations in a network environment.
+A deep learning-based Network Intrusion Detection System using Python for identifying and classifying network attacks in cybersecurity environments.
 
-## 📋 Overview
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-`router.c` is a command-line program designed to facilitate routing operations within a network. It provides functionalities for managing and validating network routing configurations.
+## 📋 Project Overview
 
-## ✨ Features
+This project evaluates **Shallow and Deep Neural Networks** for Network Intrusion Detection Systems in Cyber Security. It implements various machine learning models to detect malicious network activities and classify different types of cyber attacks.
 
-- **IP Address Validation**: Verify the correctness of IP addresses
-- **Routing Table Management**: Manage and configure routing tables
-- **Network Path Optimization**: Find optimal routes for data packets
-- **Command-Line Interface**: Easy-to-use CLI for network administrators
-- **Cross-Platform Support**: Works on Linux, Unix, and Windows systems
+## 🎯 Features
 
-## 🛠️ Technologies Used
+- **Multiple Neural Network Architectures**: Classical ML, DNN, and DNN1000
+- **Network Traffic Analysis**: Real-time network packet inspection
+- **Attack Classification**: Identifies various types of network intrusions
+- **Performance Metrics**: Accuracy, precision, recall, and F1-score evaluation
+- **Data Visualization**: Graphical representation of detection results
+- **Model Comparison**: Benchmarking different architectures
 
-- **Language**: C
-- **Compiler**: GCC (GNU Compiler Collection)
-- **Platform**: Cross-platform (Linux, Windows, macOS)
-
-## 📦 Installation
-
-### Prerequisites
-
-Make sure you have a C compiler installed on your system:
-
-- **Linux/Mac**: GCC (usually pre-installed)
-- **Windows**: MinGW or use WSL (Windows Subsystem for Linux)
-
-### Steps
-
-1. **Clone the repository**:
-```bash
+## 🏗️ Project Structure
